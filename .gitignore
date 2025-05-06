@@ -1,0 +1,7 @@
+config.yaml
+meu_modelo.keras
+objetcs/*
+!objetcs/.gitkeep
+testeflask.py
+env/
+_pycache_/
