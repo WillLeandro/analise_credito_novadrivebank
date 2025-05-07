@@ -4,4 +4,4 @@ objetcs/*
 !objetcs/.gitkeep
 testeflask.py
 env/
-_pycache_/
+**/__pycache__/
